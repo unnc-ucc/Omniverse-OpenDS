@@ -35,5 +35,5 @@ b) The following figure reports the results on user experience when using Omnive
 
 ![User Experience ](./fig/experience.jpg)
 
-## Code Contributor
+**Code Contributor**
 @[Zilin Song](https://github.com/ZilinSONG), mentored by @[Xiangjun Peng](https://github.com/Shiangjun).
